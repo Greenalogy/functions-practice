@@ -2,6 +2,12 @@
   "folders": [
     {
       "path": "."
+    },
+    {
+      "path": "../../Devslopes/Devslopes/HelloJavascript"
     }
-  ]
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "HelloJavascript"
+  }
 }
